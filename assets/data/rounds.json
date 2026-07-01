@@ -1,0 +1,504 @@
+{
+  "rounds": [
+    {"round":1,  "gold_reward":4,  "options":[
+      {"label":"Goblin Scouts",       "monsters":[{"name":"Goblin","count":2}]},
+      {"label":"Skeleton Patrol",     "monsters":[{"name":"Skeleton","count":2}]},
+      {"label":"First Encounter",     "monsters":[{"name":"Goblin","count":1},{"name":"Skeleton","count":1}]}
+    ]},
+    {"round":2,  "gold_reward":4,  "options":[
+      {"label":"Goblin Pack",         "monsters":[{"name":"Goblin","count":3}]},
+      {"label":"Rattling Bones",      "monsters":[{"name":"Skeleton","count":3}]},
+      {"label":"Ragged Mob",          "monsters":[{"name":"Goblin","count":2},{"name":"Skeleton","count":1}]}
+    ]},
+    {"round":3,  "gold_reward":4,  "options":[
+      {"label":"Goblin Rush",         "monsters":[{"name":"Goblin","count":4}]},
+      {"label":"Bone Brigade",        "monsters":[{"name":"Skeleton","count":4}]},
+      {"label":"Mixed Rabble",        "monsters":[{"name":"Goblin","count":2},{"name":"Skeleton","count":2}]}
+    ]},
+    {"round":4,  "gold_reward":4,  "options":[
+      {"label":"Goblin War Party",    "monsters":[{"name":"Goblin","count":5}]},
+      {"label":"Skeleton March",      "monsters":[{"name":"Skeleton","count":5}]},
+      {"label":"The Undead Mob",      "monsters":[{"name":"Goblin","count":3},{"name":"Skeleton","count":2}]}
+    ]},
+    {"round":5,  "gold_reward":4,  "options":[
+      {"label":"Goblin Horde",        "monsters":[{"name":"Goblin","count":6}]},
+      {"label":"Skeleton Army",       "monsters":[{"name":"Skeleton","count":6}]},
+      {"label":"Chaos Mob",           "monsters":[{"name":"Goblin","count":3},{"name":"Skeleton","count":3}]}
+    ]},
+    {"round":6,  "gold_reward":4,  "options":[
+      {"label":"Goblin Swarm",        "monsters":[{"name":"Goblin","count":7}]},
+      {"label":"Orc Debut",           "monsters":[{"name":"Orc","count":1},{"name":"Goblin","count":3}]},
+      {"label":"Bone Walkers",        "monsters":[{"name":"Skeleton","count":5},{"name":"Orc","count":1}]}
+    ]},
+    {"round":7,  "gold_reward":4,  "options":[
+      {"label":"Goblin Tide",         "monsters":[{"name":"Goblin","count":8}]},
+      {"label":"Orc Warband",         "monsters":[{"name":"Orc","count":2},{"name":"Goblin","count":2}]},
+      {"label":"Undead Legion",       "monsters":[{"name":"Skeleton","count":6},{"name":"Orc","count":1}]}
+    ]},
+    {"round":8,  "gold_reward":4,  "options":[
+      {"label":"Goblin Army",         "monsters":[{"name":"Goblin","count":8},{"name":"Orc","count":1}]},
+      {"label":"Orc Raiders",         "monsters":[{"name":"Orc","count":3}]},
+      {"label":"Mixed Threat",        "monsters":[{"name":"Goblin","count":4},{"name":"Skeleton","count":3},{"name":"Orc","count":1}]}
+    ]},
+    {"round":9,  "gold_reward":4,  "options":[
+      {"label":"Goblin Plague",       "monsters":[{"name":"Goblin","count":9},{"name":"Orc","count":1}]},
+      {"label":"Orc Elite",           "monsters":[{"name":"Orc","count":3},{"name":"Goblin","count":2}]},
+      {"label":"Skeleton Horde",      "monsters":[{"name":"Skeleton","count":7},{"name":"Orc","count":1}]}
+    ]},
+    {"round":10, "gold_reward":8,  "options":[
+      {"label":"Troll Debut",         "monsters":[{"name":"Troll","count":1},{"name":"Goblin","count":4}]},
+      {"label":"Orc Command",         "monsters":[{"name":"Orc","count":4},{"name":"Troll","count":1}]},
+      {"label":"Undead Terror",       "monsters":[{"name":"Skeleton","count":7},{"name":"Troll","count":1}]}
+    ]},
+    {"round":11, "gold_reward":6,  "options":[
+      {"label":"Bandit Debut",        "monsters":[{"name":"Bandit","count":2},{"name":"Goblin","count":4}]},
+      {"label":"Orc Battalion",       "monsters":[{"name":"Orc","count":5}]},
+      {"label":"Undead Host",         "monsters":[{"name":"Skeleton","count":8}]}
+    ]},
+    {"round":12, "gold_reward":6,  "options":[
+      {"label":"Bandit Gang",         "monsters":[{"name":"Bandit","count":3},{"name":"Goblin","count":4}]},
+      {"label":"Troll Force",         "monsters":[{"name":"Troll","count":2},{"name":"Orc","count":3}]},
+      {"label":"Mixed Assault",       "monsters":[{"name":"Bandit","count":3},{"name":"Skeleton","count":3},{"name":"Goblin","count":2}]}
+    ]},
+    {"round":13, "gold_reward":6,  "options":[
+      {"label":"Bandit Raid",         "monsters":[{"name":"Bandit","count":4},{"name":"Goblin","count":3}]},
+      {"label":"Trolls Advance",      "monsters":[{"name":"Troll","count":2},{"name":"Orc","count":4}]},
+      {"label":"Skeleton Wave",       "monsters":[{"name":"Skeleton","count":10}]}
+    ]},
+    {"round":14, "gold_reward":6,  "options":[
+      {"label":"Bandit Army",         "monsters":[{"name":"Bandit","count":5},{"name":"Goblin","count":3}]},
+      {"label":"Orc Siege",           "monsters":[{"name":"Orc","count":6},{"name":"Troll","count":1}]},
+      {"label":"Mixed Horde",         "monsters":[{"name":"Bandit","count":4},{"name":"Skeleton","count":4}]}
+    ]},
+    {"round":15, "gold_reward":6,  "options":[
+      {"label":"Outlaw Swarm",        "monsters":[{"name":"Bandit","count":6},{"name":"Goblin","count":4}]},
+      {"label":"Troll Squad",         "monsters":[{"name":"Troll","count":3},{"name":"Orc","count":3}]},
+      {"label":"Combined Arms",       "monsters":[{"name":"Bandit","count":4},{"name":"Skeleton","count":4},{"name":"Orc","count":2}]}
+    ]},
+    {"round":16, "gold_reward":6,  "options":[
+      {"label":"Werewolf Debut",      "monsters":[{"name":"Werewolf","count":1},{"name":"Bandit","count":5}]},
+      {"label":"Bandit Legion",       "monsters":[{"name":"Bandit","count":7},{"name":"Goblin","count":2}]},
+      {"label":"Orc Battalion",       "monsters":[{"name":"Orc","count":6},{"name":"Troll","count":1}]}
+    ]},
+    {"round":17, "gold_reward":6,  "options":[
+      {"label":"Wolf Pack",           "monsters":[{"name":"Werewolf","count":2},{"name":"Bandit","count":4}]},
+      {"label":"Bandit Horde",        "monsters":[{"name":"Bandit","count":9}]},
+      {"label":"Troll Command",       "monsters":[{"name":"Troll","count":3},{"name":"Orc","count":4}]}
+    ]},
+    {"round":18, "gold_reward":6,  "options":[
+      {"label":"Wolf Swarm",          "monsters":[{"name":"Werewolf","count":3},{"name":"Goblin","count":5}]},
+      {"label":"Dark Bandits",        "monsters":[{"name":"Bandit","count":6},{"name":"Werewolf","count":2}]},
+      {"label":"Skeleton Host",       "monsters":[{"name":"Skeleton","count":10},{"name":"Troll","count":1}]}
+    ]},
+    {"round":19, "gold_reward":6,  "options":[
+      {"label":"Wolf Pack",           "monsters":[{"name":"Werewolf","count":4},{"name":"Goblin","count":3}]},
+      {"label":"Orc Elite",           "monsters":[{"name":"Orc","count":7},{"name":"Troll","count":2}]},
+      {"label":"Raider Force",        "monsters":[{"name":"Bandit","count":5},{"name":"Werewolf","count":3}]}
+    ]},
+    {"round":20, "gold_reward":12, "options":[
+      {"label":"Wolf Tide",           "monsters":[{"name":"Werewolf","count":5},{"name":"Goblin","count":4}]},
+      {"label":"Troll Legion",        "monsters":[{"name":"Troll","count":4},{"name":"Orc","count":3}]},
+      {"label":"Outlaw Pack",         "monsters":[{"name":"Bandit","count":6},{"name":"Werewolf","count":4}]}
+    ]},
+    {"round":21, "gold_reward":8,  "options":[
+      {"label":"Dark Knight Debut",   "monsters":[{"name":"Dark Knight","count":1},{"name":"Goblin","count":4},{"name":"Skeleton","count":3}]},
+      {"label":"Wolf Army",           "monsters":[{"name":"Werewolf","count":6},{"name":"Bandit","count":3}]},
+      {"label":"Orc Tide",            "monsters":[{"name":"Orc","count":8},{"name":"Troll","count":2}]}
+    ]},
+    {"round":22, "gold_reward":8,  "options":[
+      {"label":"Dark Vanguard",       "monsters":[{"name":"Dark Knight","count":2},{"name":"Goblin","count":6}]},
+      {"label":"Werewolf Tide",       "monsters":[{"name":"Werewolf","count":7},{"name":"Bandit","count":2}]},
+      {"label":"Skeleton March",      "monsters":[{"name":"Skeleton","count":12}]}
+    ]},
+    {"round":23, "gold_reward":8,  "options":[
+      {"label":"Knight Squad",        "monsters":[{"name":"Dark Knight","count":3},{"name":"Bandit","count":4}]},
+      {"label":"Wolf Brigade",        "monsters":[{"name":"Werewolf","count":8}]},
+      {"label":"Mixed Elite",         "monsters":[{"name":"Dark Knight","count":2},{"name":"Orc","count":4},{"name":"Troll","count":2}]}
+    ]},
+    {"round":24, "gold_reward":8,  "options":[
+      {"label":"Knight Guard",        "monsters":[{"name":"Dark Knight","count":4},{"name":"Bandit","count":3}]},
+      {"label":"Wolf Legion",         "monsters":[{"name":"Werewolf","count":9}]},
+      {"label":"Troll Army",          "monsters":[{"name":"Troll","count":5},{"name":"Orc","count":3}]}
+    ]},
+    {"round":25, "gold_reward":8,  "options":[
+      {"label":"Dark Legion",         "monsters":[{"name":"Dark Knight","count":5},{"name":"Bandit","count":3}]},
+      {"label":"Werewolf Pack",       "monsters":[{"name":"Werewolf","count":10}]},
+      {"label":"Battle Force",        "monsters":[{"name":"Dark Knight","count":3},{"name":"Orc","count":5},{"name":"Troll","count":1}]}
+    ]},
+    {"round":26, "gold_reward":8,  "options":[
+      {"label":"Vampire Debut",       "monsters":[{"name":"Vampire","count":1},{"name":"Dark Knight","count":4},{"name":"Bandit","count":2}]},
+      {"label":"Dark Knights",        "monsters":[{"name":"Dark Knight","count":6},{"name":"Orc","count":3}]},
+      {"label":"Wolf Rampage",        "monsters":[{"name":"Werewolf","count":10},{"name":"Bandit","count":2}]}
+    ]},
+    {"round":27, "gold_reward":8,  "options":[
+      {"label":"Blood Pack",          "monsters":[{"name":"Vampire","count":3},{"name":"Dark Knight","count":4}]},
+      {"label":"Werewolf Battalion",  "monsters":[{"name":"Werewolf","count":10},{"name":"Orc","count":2}]},
+      {"label":"Night Raiders",       "monsters":[{"name":"Bandit","count":5},{"name":"Dark Knight","count":5}]}
+    ]},
+    {"round":28, "gold_reward":8,  "options":[
+      {"label":"Vampire Host",        "monsters":[{"name":"Vampire","count":4},{"name":"Dark Knight","count":3}]},
+      {"label":"Troll Rampage",       "monsters":[{"name":"Troll","count":6},{"name":"Orc","count":2}]},
+      {"label":"Night Horde",         "monsters":[{"name":"Vampire","count":4},{"name":"Bandit","count":6}]}
+    ]},
+    {"round":29, "gold_reward":8,  "options":[
+      {"label":"Blood Army",          "monsters":[{"name":"Vampire","count":5},{"name":"Dark Knight","count":4}]},
+      {"label":"Werewolf Legion",     "monsters":[{"name":"Werewolf","count":12}]},
+      {"label":"Undead Elite",        "monsters":[{"name":"Skeleton","count":8},{"name":"Vampire","count":2},{"name":"Dark Knight","count":2}]}
+    ]},
+    {"round":30, "gold_reward":16, "options":[
+      {"label":"Vampire Swarm",       "monsters":[{"name":"Vampire","count":6},{"name":"Dark Knight","count":5}]},
+      {"label":"Troll Siege",         "monsters":[{"name":"Troll","count":7},{"name":"Orc","count":2}]},
+      {"label":"Mixed Nightmare",     "monsters":[{"name":"Vampire","count":4},{"name":"Werewolf","count":5},{"name":"Bandit","count":3}]}
+    ]},
+    {"round":31, "gold_reward":10, "options":[
+      {"label":"Necromancer Debut",   "monsters":[{"name":"Necromancer","count":1},{"name":"Skeleton","count":6},{"name":"Goblin","count":3}]},
+      {"label":"Vampire Legion",      "monsters":[{"name":"Vampire","count":7},{"name":"Dark Knight","count":3}]},
+      {"label":"Wolf Blood",          "monsters":[{"name":"Werewolf","count":6},{"name":"Vampire","count":4}]}
+    ]},
+    {"round":32, "gold_reward":10, "options":[
+      {"label":"Death Casters",       "monsters":[{"name":"Necromancer","count":2},{"name":"Skeleton","count":7}]},
+      {"label":"Knight Horde",        "monsters":[{"name":"Dark Knight","count":8},{"name":"Vampire","count":2}]},
+      {"label":"Wolf Night",          "monsters":[{"name":"Werewolf","count":10},{"name":"Vampire","count":3}]}
+    ]},
+    {"round":33, "gold_reward":10, "options":[
+      {"label":"Dark Ritual",         "monsters":[{"name":"Necromancer","count":3},{"name":"Skeleton","count":8}]},
+      {"label":"Vampire Army",        "monsters":[{"name":"Vampire","count":8},{"name":"Dark Knight","count":2}]},
+      {"label":"Troll Horde",         "monsters":[{"name":"Troll","count":8}]}
+    ]},
+    {"round":34, "gold_reward":10, "options":[
+      {"label":"Necro Force",         "monsters":[{"name":"Necromancer","count":4},{"name":"Skeleton","count":7},{"name":"Goblin","count":3}]},
+      {"label":"Night Force",         "monsters":[{"name":"Vampire","count":6},{"name":"Dark Knight","count":6}]},
+      {"label":"Mixed Darkness",      "monsters":[{"name":"Necromancer","count":3},{"name":"Vampire","count":5},{"name":"Werewolf","count":5}]}
+    ]},
+    {"round":35, "gold_reward":10, "options":[
+      {"label":"Dark Army",           "monsters":[{"name":"Necromancer","count":5},{"name":"Skeleton","count":9}]},
+      {"label":"Dark Tide",           "monsters":[{"name":"Dark Knight","count":8},{"name":"Vampire","count":4}]},
+      {"label":"Blood Night",         "monsters":[{"name":"Vampire","count":5},{"name":"Werewolf","count":5},{"name":"Bandit","count":5}]}
+    ]},
+    {"round":36, "gold_reward":10, "options":[
+      {"label":"Golem Debut",         "monsters":[{"name":"Golem","count":1},{"name":"Goblin","count":5},{"name":"Skeleton","count":5}]},
+      {"label":"Necro Horde",         "monsters":[{"name":"Necromancer","count":6},{"name":"Skeleton","count":8}]},
+      {"label":"Dark Host",           "monsters":[{"name":"Dark Knight","count":8},{"name":"Vampire","count":5}]}
+    ]},
+    {"round":37, "gold_reward":10, "options":[
+      {"label":"Stone Guard",         "monsters":[{"name":"Golem","count":2},{"name":"Orc","count":4}]},
+      {"label":"Necro Army",          "monsters":[{"name":"Necromancer","count":7},{"name":"Skeleton","count":6}]},
+      {"label":"Vampire Tide",        "monsters":[{"name":"Vampire","count":9},{"name":"Werewolf","count":4}]}
+    ]},
+    {"round":38, "gold_reward":10, "options":[
+      {"label":"Golem Wall",          "monsters":[{"name":"Golem","count":3},{"name":"Dark Knight","count":4}]},
+      {"label":"Dark Ritual",         "monsters":[{"name":"Necromancer","count":8},{"name":"Skeleton","count":5}]},
+      {"label":"Knight Siege",        "monsters":[{"name":"Dark Knight","count":10},{"name":"Vampire","count":3}]}
+    ]},
+    {"round":39, "gold_reward":10, "options":[
+      {"label":"Stone Force",         "monsters":[{"name":"Golem","count":4},{"name":"Orc","count":3}]},
+      {"label":"Necro Legion",        "monsters":[{"name":"Necromancer","count":9},{"name":"Skeleton","count":5}]},
+      {"label":"Night Army",          "monsters":[{"name":"Vampire","count":8},{"name":"Werewolf","count":6}]}
+    ]},
+    {"round":40, "gold_reward":20, "options":[
+      {"label":"Golem Army",          "monsters":[{"name":"Golem","count":5},{"name":"Orc","count":3}]},
+      {"label":"Undead Tide",         "monsters":[{"name":"Necromancer","count":10},{"name":"Skeleton","count":8}]},
+      {"label":"Dark Legion",         "monsters":[{"name":"Dark Knight","count":10},{"name":"Vampire","count":5},{"name":"Necromancer","count":2}]}
+    ]},
+    {"round":41, "gold_reward":12, "options":[
+      {"label":"Witch Debut",         "monsters":[{"name":"Witch","count":2},{"name":"Goblin","count":5},{"name":"Skeleton","count":5}]},
+      {"label":"Golem Guard",         "monsters":[{"name":"Golem","count":6}]},
+      {"label":"Necro Siege",         "monsters":[{"name":"Necromancer","count":10},{"name":"Skeleton","count":6}]}
+    ]},
+    {"round":42, "gold_reward":12, "options":[
+      {"label":"Coven",               "monsters":[{"name":"Witch","count":3},{"name":"Necromancer","count":4},{"name":"Skeleton","count":3}]},
+      {"label":"Stone Army",          "monsters":[{"name":"Golem","count":7},{"name":"Orc","count":2}]},
+      {"label":"Dark Night",          "monsters":[{"name":"Vampire","count":10},{"name":"Dark Knight","count":5}]}
+    ]},
+    {"round":43, "gold_reward":12, "options":[
+      {"label":"Witch Swarm",         "monsters":[{"name":"Witch","count":5},{"name":"Goblin","count":6}]},
+      {"label":"Golem Legion",        "monsters":[{"name":"Golem","count":8}]},
+      {"label":"Undead Storm",        "monsters":[{"name":"Skeleton","count":12},{"name":"Necromancer","count":4}]}
+    ]},
+    {"round":44, "gold_reward":12, "options":[
+      {"label":"Dark Coven",          "monsters":[{"name":"Witch","count":6},{"name":"Necromancer","count":5}]},
+      {"label":"Golem Tide",          "monsters":[{"name":"Golem","count":9}]},
+      {"label":"Night Siege",         "monsters":[{"name":"Vampire","count":8},{"name":"Dark Knight","count":6},{"name":"Witch","count":2}]}
+    ]},
+    {"round":45, "gold_reward":12, "options":[
+      {"label":"Witch Army",          "monsters":[{"name":"Witch","count":7},{"name":"Skeleton","count":6}]},
+      {"label":"Stone Legion",        "monsters":[{"name":"Golem","count":10}]},
+      {"label":"Dark Storm",          "monsters":[{"name":"Necromancer","count":10},{"name":"Witch","count":6}]}
+    ]},
+    {"round":46, "gold_reward":12, "options":[
+      {"label":"Ogre Debut",          "monsters":[{"name":"Ogre","count":1},{"name":"Orc","count":5},{"name":"Goblin","count":4}]},
+      {"label":"Witch Tide",          "monsters":[{"name":"Witch","count":8},{"name":"Necromancer","count":6}]},
+      {"label":"Golem Force",         "monsters":[{"name":"Golem","count":10},{"name":"Troll","count":2}]}
+    ]},
+    {"round":47, "gold_reward":12, "options":[
+      {"label":"Ogre Pack",           "monsters":[{"name":"Ogre","count":2},{"name":"Orc","count":6}]},
+      {"label":"Dark Casters",        "monsters":[{"name":"Witch","count":10},{"name":"Necromancer","count":5}]},
+      {"label":"Stone Guard",         "monsters":[{"name":"Golem","count":10},{"name":"Orc","count":3}]}
+    ]},
+    {"round":48, "gold_reward":12, "options":[
+      {"label":"Ogre War",            "monsters":[{"name":"Ogre","count":3},{"name":"Orc","count":6}]},
+      {"label":"Witch Army",          "monsters":[{"name":"Witch","count":12}]},
+      {"label":"Giant Host",          "monsters":[{"name":"Golem","count":8},{"name":"Ogre","count":2}]}
+    ]},
+    {"round":49, "gold_reward":12, "options":[
+      {"label":"Ogre Horde",          "monsters":[{"name":"Ogre","count":4},{"name":"Orc","count":5}]},
+      {"label":"Dark Tide",           "monsters":[{"name":"Witch","count":12},{"name":"Necromancer","count":4}]},
+      {"label":"Stone Surge",         "monsters":[{"name":"Golem","count":10},{"name":"Ogre","count":3}]}
+    ]},
+    {"round":50, "gold_reward":24, "options":[
+      {"label":"Ogre Legion",         "monsters":[{"name":"Ogre","count":5},{"name":"Orc","count":6}]},
+      {"label":"Witch Storm",         "monsters":[{"name":"Witch","count":14}]},
+      {"label":"Giant Force",         "monsters":[{"name":"Golem","count":8},{"name":"Ogre","count":5}]}
+    ]},
+    {"round":51, "gold_reward":14, "options":[
+      {"label":"Dragon Whelp Debut",  "monsters":[{"name":"Dragon Whelp","count":1},{"name":"Orc","count":5},{"name":"Goblin","count":5}]},
+      {"label":"Ogre Army",           "monsters":[{"name":"Ogre","count":6},{"name":"Orc","count":5}]},
+      {"label":"Caster Storm",        "monsters":[{"name":"Witch","count":12},{"name":"Necromancer","count":6}]}
+    ]},
+    {"round":52, "gold_reward":14, "options":[
+      {"label":"Whelp Swarm",         "monsters":[{"name":"Dragon Whelp","count":2},{"name":"Goblin","count":6}]},
+      {"label":"Ogre Tide",           "monsters":[{"name":"Ogre","count":7},{"name":"Orc","count":4}]},
+      {"label":"Undead Storm",        "monsters":[{"name":"Skeleton","count":14},{"name":"Necromancer","count":5}]}
+    ]},
+    {"round":53, "gold_reward":14, "options":[
+      {"label":"Whelp Pack",          "monsters":[{"name":"Dragon Whelp","count":3},{"name":"Orc","count":5}]},
+      {"label":"Ogre Legion",         "monsters":[{"name":"Ogre","count":8}]},
+      {"label":"Dark Storm",          "monsters":[{"name":"Witch","count":12},{"name":"Dark Knight","count":5}]}
+    ]},
+    {"round":54, "gold_reward":14, "options":[
+      {"label":"Young Dragons",       "monsters":[{"name":"Dragon Whelp","count":4},{"name":"Orc","count":4}]},
+      {"label":"Ogre Horde",          "monsters":[{"name":"Ogre","count":9}]},
+      {"label":"Night Storm",         "monsters":[{"name":"Vampire","count":10},{"name":"Werewolf","count":6},{"name":"Witch","count":4}]}
+    ]},
+    {"round":55, "gold_reward":14, "options":[
+      {"label":"Dragon Flight",       "monsters":[{"name":"Dragon Whelp","count":5},{"name":"Goblin","count":6}]},
+      {"label":"Ogre Surge",          "monsters":[{"name":"Ogre","count":10}]},
+      {"label":"Golem Storm",         "monsters":[{"name":"Golem","count":10},{"name":"Witch","count":5}]}
+    ]},
+    {"round":56, "gold_reward":14, "options":[
+      {"label":"Demon Debut",         "monsters":[{"name":"Demon","count":1},{"name":"Dark Knight","count":4},{"name":"Orc","count":5}]},
+      {"label":"Dragon Whelp Swarm",  "monsters":[{"name":"Dragon Whelp","count":6},{"name":"Orc","count":5}]},
+      {"label":"Ogre Force",          "monsters":[{"name":"Ogre","count":10},{"name":"Troll","count":3}]}
+    ]},
+    {"round":57, "gold_reward":14, "options":[
+      {"label":"Demon Pack",          "monsters":[{"name":"Demon","count":2},{"name":"Dark Knight","count":6}]},
+      {"label":"Whelp Army",          "monsters":[{"name":"Dragon Whelp","count":7},{"name":"Orc","count":4}]},
+      {"label":"Caster Tide",         "monsters":[{"name":"Witch","count":10},{"name":"Necromancer","count":5},{"name":"Demon","count":3}]}
+    ]},
+    {"round":58, "gold_reward":14, "options":[
+      {"label":"Demon Horde",         "monsters":[{"name":"Demon","count":3},{"name":"Dark Knight","count":8}]},
+      {"label":"Dragon Flight",       "monsters":[{"name":"Dragon Whelp","count":8}]},
+      {"label":"Stone Demons",        "monsters":[{"name":"Golem","count":8},{"name":"Demon","count":4}]}
+    ]},
+    {"round":59, "gold_reward":14, "options":[
+      {"label":"Demon Army",          "monsters":[{"name":"Demon","count":4},{"name":"Orc","count":8}]},
+      {"label":"Whelp Legion",        "monsters":[{"name":"Dragon Whelp","count":9}]},
+      {"label":"Night Demons",        "monsters":[{"name":"Vampire","count":6},{"name":"Demon","count":5},{"name":"Dark Knight","count":4}]}
+    ]},
+    {"round":60, "gold_reward":28, "options":[
+      {"label":"Demon Tide",          "monsters":[{"name":"Demon","count":5},{"name":"Dark Knight","count":8}]},
+      {"label":"Dragon Force",        "monsters":[{"name":"Dragon Whelp","count":10}]},
+      {"label":"Mixed Assault",       "monsters":[{"name":"Demon","count":5},{"name":"Ogre","count":5},{"name":"Witch","count":5}]}
+    ]},
+    {"round":61, "gold_reward":16, "options":[
+      {"label":"Demon Legion",        "monsters":[{"name":"Demon","count":6},{"name":"Dark Knight","count":6}]},
+      {"label":"Whelp Surge",         "monsters":[{"name":"Dragon Whelp","count":12}]},
+      {"label":"Mega Horde",          "monsters":[{"name":"Goblin","count":8},{"name":"Skeleton","count":8},{"name":"Orc","count":6}]}
+    ]},
+    {"round":62, "gold_reward":16, "options":[
+      {"label":"Dark Assault",        "monsters":[{"name":"Demon","count":6},{"name":"Vampire","count":5},{"name":"Dark Knight","count":3}]},
+      {"label":"Ogre Siege",          "monsters":[{"name":"Ogre","count":12}]},
+      {"label":"Caster Barrage",      "monsters":[{"name":"Witch","count":10},{"name":"Necromancer","count":8}]}
+    ]},
+    {"round":63, "gold_reward":16, "options":[
+      {"label":"Demon Storm",         "monsters":[{"name":"Demon","count":7},{"name":"Dark Knight","count":6}]},
+      {"label":"Stone Tide",          "monsters":[{"name":"Golem","count":12},{"name":"Ogre","count":2}]},
+      {"label":"Night Assault",       "monsters":[{"name":"Vampire","count":8},{"name":"Werewolf","count":6},{"name":"Demon","count":5}]}
+    ]},
+    {"round":64, "gold_reward":16, "options":[
+      {"label":"Infernal Raid",       "monsters":[{"name":"Demon","count":8},{"name":"Dark Knight","count":5}]},
+      {"label":"Giant Siege",         "monsters":[{"name":"Ogre","count":10},{"name":"Golem","count":4}]},
+      {"label":"Dragon Surge",        "monsters":[{"name":"Dragon Whelp","count":12},{"name":"Demon","count":3}]}
+    ]},
+    {"round":65, "gold_reward":16, "options":[
+      {"label":"Demon Horde",         "monsters":[{"name":"Demon","count":9},{"name":"Dark Knight","count":4}]},
+      {"label":"Caster Storm",        "monsters":[{"name":"Witch","count":12},{"name":"Necromancer","count":8}]},
+      {"label":"Dark Tide",           "monsters":[{"name":"Vampire","count":8},{"name":"Dark Knight","count":8},{"name":"Demon","count":3}]}
+    ]},
+    {"round":66, "gold_reward":16, "options":[
+      {"label":"Lich Debut",          "monsters":[{"name":"Lich","count":1},{"name":"Skeleton","count":8},{"name":"Necromancer","count":5}]},
+      {"label":"Demon Army",          "monsters":[{"name":"Demon","count":10},{"name":"Dark Knight","count":5}]},
+      {"label":"Dragon Pack",         "monsters":[{"name":"Dragon Whelp","count":12},{"name":"Demon","count":5}]}
+    ]},
+    {"round":67, "gold_reward":16, "options":[
+      {"label":"Death Mages",         "monsters":[{"name":"Lich","count":2},{"name":"Skeleton","count":8},{"name":"Necromancer","count":4}]},
+      {"label":"Demon Legion",        "monsters":[{"name":"Demon","count":12},{"name":"Dark Knight","count":4}]},
+      {"label":"Giant Force",         "monsters":[{"name":"Ogre","count":12},{"name":"Golem","count":4}]}
+    ]},
+    {"round":68, "gold_reward":16, "options":[
+      {"label":"Lich Command",        "monsters":[{"name":"Lich","count":3},{"name":"Skeleton","count":10}]},
+      {"label":"Dark Fire",           "monsters":[{"name":"Dragon Whelp","count":12},{"name":"Demon","count":6}]},
+      {"label":"Night Tide",          "monsters":[{"name":"Vampire","count":10},{"name":"Werewolf","count":8}]}
+    ]},
+    {"round":69, "gold_reward":16, "options":[
+      {"label":"Death Army",          "monsters":[{"name":"Lich","count":4},{"name":"Skeleton","count":10},{"name":"Necromancer","count":3}]},
+      {"label":"Infernal Host",       "monsters":[{"name":"Demon","count":12},{"name":"Dragon Whelp","count":5}]},
+      {"label":"Giant Tide",          "monsters":[{"name":"Ogre","count":14},{"name":"Golem","count":3}]}
+    ]},
+    {"round":70, "gold_reward":32, "options":[
+      {"label":"Lich Legion",         "monsters":[{"name":"Lich","count":5},{"name":"Skeleton","count":10}]},
+      {"label":"Demon Surge",         "monsters":[{"name":"Demon","count":14}]},
+      {"label":"Dark Cavalry",        "monsters":[{"name":"Werewolf","count":10},{"name":"Dark Knight","count":8},{"name":"Lich","count":3}]}
+    ]},
+    {"round":71, "gold_reward":18, "options":[
+      {"label":"Lich Storm",          "monsters":[{"name":"Lich","count":6},{"name":"Skeleton","count":10},{"name":"Necromancer","count":4}]},
+      {"label":"Demon Tide",          "monsters":[{"name":"Demon","count":14},{"name":"Dark Knight","count":4}]},
+      {"label":"Dragon Army",         "monsters":[{"name":"Dragon Whelp","count":14},{"name":"Demon","count":4}]}
+    ]},
+    {"round":72, "gold_reward":18, "options":[
+      {"label":"Death Casters",       "monsters":[{"name":"Lich","count":6},{"name":"Necromancer","count":6},{"name":"Skeleton","count":8}]},
+      {"label":"Infernal Tide",       "monsters":[{"name":"Demon","count":16}]},
+      {"label":"Night Horde",         "monsters":[{"name":"Vampire","count":12},{"name":"Werewolf","count":8},{"name":"Lich","count":3}]}
+    ]},
+    {"round":73, "gold_reward":18, "options":[
+      {"label":"Lich Force",          "monsters":[{"name":"Lich","count":7},{"name":"Skeleton","count":8}]},
+      {"label":"Demon Force",         "monsters":[{"name":"Demon","count":14},{"name":"Dark Knight","count":5},{"name":"Lich","count":2}]},
+      {"label":"Stone Siege",         "monsters":[{"name":"Golem","count":14},{"name":"Ogre","count":5}]}
+    ]},
+    {"round":74, "gold_reward":18, "options":[
+      {"label":"Undead Plague",       "monsters":[{"name":"Lich","count":8},{"name":"Skeleton","count":10}]},
+      {"label":"Infernal Storm",      "monsters":[{"name":"Demon","count":16},{"name":"Lich","count":3}]},
+      {"label":"Giant Army",          "monsters":[{"name":"Ogre","count":14},{"name":"Golem","count":6}]}
+    ]},
+    {"round":75, "gold_reward":18, "options":[
+      {"label":"Lich Army",           "monsters":[{"name":"Lich","count":8},{"name":"Skeleton","count":12}]},
+      {"label":"Chaos Tide",          "monsters":[{"name":"Demon","count":16},{"name":"Dragon Whelp","count":5}]},
+      {"label":"Mixed Mayhem",        "monsters":[{"name":"Lich","count":5},{"name":"Demon","count":8},{"name":"Dark Knight","count":8},{"name":"Vampire","count":4}]}
+    ]},
+    {"round":76, "gold_reward":18, "options":[
+      {"label":"Dragon Debut",        "monsters":[{"name":"Dragon","count":1},{"name":"Lich","count":6},{"name":"Skeleton","count":8}]},
+      {"label":"Demon Plague",        "monsters":[{"name":"Demon","count":18},{"name":"Lich","count":3}]},
+      {"label":"Giant Force",         "monsters":[{"name":"Ogre","count":15},{"name":"Golem","count":7}]}
+    ]},
+    {"round":77, "gold_reward":18, "options":[
+      {"label":"Dragon Assault",      "monsters":[{"name":"Dragon","count":1},{"name":"Dragon Whelp","count":8},{"name":"Lich","count":5}]},
+      {"label":"Chaos Storm",         "monsters":[{"name":"Demon","count":18},{"name":"Lich","count":5}]},
+      {"label":"Night Force",         "monsters":[{"name":"Vampire","count":12},{"name":"Werewolf","count":10},{"name":"Lich","count":5}]}
+    ]},
+    {"round":78, "gold_reward":18, "options":[
+      {"label":"Dragon Raid",         "monsters":[{"name":"Dragon","count":2},{"name":"Dragon Whelp","count":8}]},
+      {"label":"Lich Storm",          "monsters":[{"name":"Lich","count":10},{"name":"Skeleton","count":10}]},
+      {"label":"Infernal Siege",      "monsters":[{"name":"Demon","count":20},{"name":"Dragon","count":2}]}
+    ]},
+    {"round":79, "gold_reward":18, "options":[
+      {"label":"Dragon Pack",         "monsters":[{"name":"Dragon","count":2},{"name":"Dragon Whelp","count":10}]},
+      {"label":"Chaos Force",         "monsters":[{"name":"Demon","count":18},{"name":"Lich","count":6},{"name":"Dark Knight","count":5}]},
+      {"label":"Mega Storm",          "monsters":[{"name":"Goblin","count":15},{"name":"Skeleton","count":15},{"name":"Orc","count":10}]}
+    ]},
+    {"round":80, "gold_reward":36, "options":[
+      {"label":"Dragon Pair",         "monsters":[{"name":"Dragon","count":2},{"name":"Dragon Whelp","count":10},{"name":"Demon","count":5}]},
+      {"label":"Lich Legion",         "monsters":[{"name":"Lich","count":12},{"name":"Skeleton","count":8}]},
+      {"label":"Chaos Surge",         "monsters":[{"name":"Demon","count":20},{"name":"Dragon Whelp","count":5}]}
+    ]},
+    {"round":81, "gold_reward":20, "options":[
+      {"label":"Dragon Force",        "monsters":[{"name":"Dragon","count":3},{"name":"Dragon Whelp","count":8}]},
+      {"label":"Death Legion",        "monsters":[{"name":"Lich","count":12},{"name":"Skeleton","count":10},{"name":"Necromancer","count":5}]},
+      {"label":"Demon Horde",         "monsters":[{"name":"Demon","count":20},{"name":"Lich","count":5}]}
+    ]},
+    {"round":82, "gold_reward":20, "options":[
+      {"label":"Dragon Siege",        "monsters":[{"name":"Dragon","count":3},{"name":"Dragon Whelp","count":10},{"name":"Demon","count":5}]},
+      {"label":"Chaos Army",          "monsters":[{"name":"Demon","count":20},{"name":"Lich","count":6}]},
+      {"label":"Giant Siege",         "monsters":[{"name":"Ogre","count":16},{"name":"Golem","count":8},{"name":"Dragon","count":2}]}
+    ]},
+    {"round":83, "gold_reward":20, "options":[
+      {"label":"Dragon Tide",         "monsters":[{"name":"Dragon","count":4},{"name":"Dragon Whelp","count":10}]},
+      {"label":"Death Storm",         "monsters":[{"name":"Lich","count":14},{"name":"Skeleton","count":10}]},
+      {"label":"Infernal Army",       "monsters":[{"name":"Demon","count":20},{"name":"Lich","count":8},{"name":"Dragon","count":2}]}
+    ]},
+    {"round":84, "gold_reward":20, "options":[
+      {"label":"Dragon Army",         "monsters":[{"name":"Dragon","count":4},{"name":"Dragon Whelp","count":12},{"name":"Demon","count":5}]},
+      {"label":"Chaos Tide",          "monsters":[{"name":"Demon","count":22},{"name":"Lich","count":6}]},
+      {"label":"Giant Force",         "monsters":[{"name":"Ogre","count":18},{"name":"Golem","count":8}]}
+    ]},
+    {"round":85, "gold_reward":20, "options":[
+      {"label":"Dragon Legion",       "monsters":[{"name":"Dragon","count":5},{"name":"Dragon Whelp","count":10}]},
+      {"label":"Death Army",          "monsters":[{"name":"Lich","count":14},{"name":"Skeleton","count":12},{"name":"Necromancer","count":5}]},
+      {"label":"Dark Tide",           "monsters":[{"name":"Vampire","count":15},{"name":"Werewolf","count":12},{"name":"Lich","count":5}]}
+    ]},
+    {"round":86, "gold_reward":20, "options":[
+      {"label":"Dragon Horde",        "monsters":[{"name":"Dragon","count":5},{"name":"Dragon Whelp","count":12},{"name":"Demon","count":8}]},
+      {"label":"Chaos Storm",         "monsters":[{"name":"Demon","count":22},{"name":"Lich","count":8}]},
+      {"label":"Mega Force",          "monsters":[{"name":"Ogre","count":18},{"name":"Golem","count":10},{"name":"Dragon","count":3}]}
+    ]},
+    {"round":87, "gold_reward":20, "options":[
+      {"label":"Dragon Flight",       "monsters":[{"name":"Dragon","count":6},{"name":"Dragon Whelp","count":10}]},
+      {"label":"Death Tide",          "monsters":[{"name":"Lich","count":16},{"name":"Skeleton","count":10}]},
+      {"label":"Infernal Tide",       "monsters":[{"name":"Demon","count":24},{"name":"Dragon","count":6}]}
+    ]},
+    {"round":88, "gold_reward":20, "options":[
+      {"label":"Dragon Surge",        "monsters":[{"name":"Dragon","count":6},{"name":"Dragon Whelp","count":14},{"name":"Demon","count":6}]},
+      {"label":"Chaos Army",          "monsters":[{"name":"Demon","count":24},{"name":"Lich","count":8},{"name":"Dragon","count":3}]},
+      {"label":"Night Army",          "monsters":[{"name":"Vampire","count":18},{"name":"Werewolf","count":12},{"name":"Lich","count":8}]}
+    ]},
+    {"round":89, "gold_reward":20, "options":[
+      {"label":"Dragon Storm",        "monsters":[{"name":"Dragon","count":7},{"name":"Dragon Whelp","count":12}]},
+      {"label":"Death Legion",        "monsters":[{"name":"Lich","count":18},{"name":"Skeleton","count":10}]},
+      {"label":"Mixed Hell",          "monsters":[{"name":"Dragon","count":8},{"name":"Demon","count":15},{"name":"Lich","count":8}]}
+    ]},
+    {"round":90, "gold_reward":40, "options":[
+      {"label":"Dragon Plague",       "monsters":[{"name":"Dragon","count":7},{"name":"Dragon Whelp","count":14},{"name":"Demon","count":8}]},
+      {"label":"Chaos Legion",        "monsters":[{"name":"Demon","count":26},{"name":"Lich","count":8}]},
+      {"label":"Death Surge",         "monsters":[{"name":"Lich","count":18},{"name":"Skeleton","count":12},{"name":"Dragon","count":6}]}
+    ]},
+    {"round":91, "gold_reward":22, "options":[
+      {"label":"Dragon War",          "monsters":[{"name":"Dragon","count":8},{"name":"Dragon Whelp","count":12}]},
+      {"label":"Lich Storm",          "monsters":[{"name":"Lich","count":20},{"name":"Skeleton","count":10}]},
+      {"label":"Infernal War",        "monsters":[{"name":"Demon","count":26},{"name":"Dragon","count":8}]}
+    ]},
+    {"round":92, "gold_reward":22, "options":[
+      {"label":"Dragon Force",        "monsters":[{"name":"Dragon","count":8},{"name":"Dragon Whelp","count":14},{"name":"Demon","count":8}]},
+      {"label":"Death Force",         "monsters":[{"name":"Lich","count":20},{"name":"Skeleton","count":12},{"name":"Necromancer","count":5}]},
+      {"label":"Chaos Surge",         "monsters":[{"name":"Demon","count":28},{"name":"Lich","count":8}]}
+    ]},
+    {"round":93, "gold_reward":22, "options":[
+      {"label":"Dragon Assault",      "monsters":[{"name":"Dragon","count":9},{"name":"Dragon Whelp","count":12}]},
+      {"label":"Death Army",          "monsters":[{"name":"Lich","count":22},{"name":"Skeleton","count":10}]},
+      {"label":"Mega Assault",        "monsters":[{"name":"Dragon","count":10},{"name":"Demon","count":20},{"name":"Lich","count":8}]}
+    ]},
+    {"round":94, "gold_reward":22, "options":[
+      {"label":"Dragon Tide",         "monsters":[{"name":"Dragon","count":9},{"name":"Dragon Whelp","count":16}]},
+      {"label":"Chaos Force",         "monsters":[{"name":"Demon","count":28},{"name":"Lich","count":10},{"name":"Dragon","count":4}]},
+      {"label":"Giant Assault",       "monsters":[{"name":"Ogre","count":20},{"name":"Golem","count":12},{"name":"Dragon","count":5}]}
+    ]},
+    {"round":95, "gold_reward":22, "options":[
+      {"label":"Dragon Army",         "monsters":[{"name":"Dragon","count":10},{"name":"Dragon Whelp","count":14}]},
+      {"label":"Death Tide",          "monsters":[{"name":"Lich","count":22},{"name":"Skeleton","count":12},{"name":"Dragon","count":6}]},
+      {"label":"Mixed Apocalypse",    "monsters":[{"name":"Dragon","count":10},{"name":"Demon","count":20},{"name":"Lich","count":10}]}
+    ]},
+    {"round":96, "gold_reward":22, "options":[
+      {"label":"Dragon Legion",       "monsters":[{"name":"Dragon","count":10},{"name":"Dragon Whelp","count":16},{"name":"Demon","count":8}]},
+      {"label":"Chaos Storm",         "monsters":[{"name":"Demon","count":30},{"name":"Lich","count":10},{"name":"Dragon","count":5}]},
+      {"label":"Death Tide",          "monsters":[{"name":"Lich","count":24},{"name":"Skeleton","count":14}]}
+    ]},
+    {"round":97, "gold_reward":22, "options":[
+      {"label":"Dragon Horde",        "monsters":[{"name":"Dragon","count":11},{"name":"Dragon Whelp","count":14}]},
+      {"label":"Armageddon",          "monsters":[{"name":"Demon","count":30},{"name":"Lich","count":12},{"name":"Dragon","count":6}]},
+      {"label":"Apocalypse",          "monsters":[{"name":"Dragon","count":12},{"name":"Dragon Whelp","count":20},{"name":"Demon","count":10}]}
+    ]},
+    {"round":98, "gold_reward":22, "options":[
+      {"label":"Dragon Surge",        "monsters":[{"name":"Dragon","count":12},{"name":"Dragon Whelp","count":14},{"name":"Demon","count":10}]},
+      {"label":"Final Lich War",      "monsters":[{"name":"Lich","count":26},{"name":"Skeleton","count":14},{"name":"Dragon","count":6}]},
+      {"label":"Chaos Armageddon",    "monsters":[{"name":"Demon","count":32},{"name":"Lich","count":12}]}
+    ]},
+    {"round":99, "gold_reward":22, "options":[
+      {"label":"Dragon Storm",        "monsters":[{"name":"Dragon","count":13},{"name":"Dragon Whelp","count":14}]},
+      {"label":"Death Storm",         "monsters":[{"name":"Lich","count":28},{"name":"Skeleton","count":12}]},
+      {"label":"Final Assault",       "monsters":[{"name":"Dragon","count":14},{"name":"Demon","count":22},{"name":"Lich","count":12}]}
+    ]},
+    {"round":100,"gold_reward":44, "options":[
+      {"label":"Dragon Apocalypse",   "monsters":[{"name":"Dragon","count":15},{"name":"Dragon Whelp","count":14},{"name":"Demon","count":10}]},
+      {"label":"Final Death",         "monsters":[{"name":"Lich","count":30},{"name":"Skeleton","count":14},{"name":"Dragon","count":8}]},
+      {"label":"End of Days",         "monsters":[{"name":"Dragon","count":20},{"name":"Demon","count":20},{"name":"Lich","count":20}]}
+    ]}
+  ]
+}
